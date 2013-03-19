@@ -7,7 +7,7 @@ A simple python that creates a HTML template on the fly from your src name js (I
 ```
 $ git clone git://github.com/thinkphp/inithtml.py.git
 $ cd inithtml.py
-$ python inithtml jquery.js filename.html
+$ python inithtml.py jquery.js filename.html
 ```
 
 
